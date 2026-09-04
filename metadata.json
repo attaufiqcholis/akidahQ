@@ -1,0 +1,8 @@
+{
+  "name": "Remix Misi Tauhid - Aku Diciptakan untuk Apa?",
+  "description": "Game edukasi Islami kajian Tauhid untuk siswa SMP/SMA Islam Attaufiq Jambi: Mengenal Allah, Memurnikan Ibadah, dan Menelusuri Jalan Rasulullah ﷺ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
